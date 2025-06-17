@@ -56,17 +56,17 @@ const projectsData = {
       {
         src: "images/tb1.png",
         alt: "Page d'accueil Trésors de Banlieues 2026",
-        description: "Vue d'ensemble de l'exposition avec les stands et visiteurs",
+        description: "Page d'acceuil du site",
       },
       {
         src: "images/tb2.png",
         alt: "Page Édition 2025",
-        description: "Page principale avec fresque artistique en arrière-plan",
+        description: "Page sur lédition 2025",
       },
       {
         src: "images/tb3.png",
         alt: "Page Our Team",
-        description: "Présentation de l'équipe devant la fresque murale",
+        description: "Page de la résentation de l'équipe",
       },
       {
         src: "images/tb4.png",
