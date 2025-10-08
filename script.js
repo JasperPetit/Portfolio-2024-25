@@ -56,17 +56,17 @@ const projectsData = {
       {
         src: "images/tb1.png",
         alt: "Page d'accueil Trésors de Banlieues 2026",
-        description: "Page d'acceuil du site",
+        description: "Vue d'ensemble de l'exposition avec les stands et visiteurs",
       },
       {
         src: "images/tb2.png",
         alt: "Page Édition 2025",
-        description: "Page sur l'édition 2025",
+        description: "Page principale avec fresque artistique en arrière-plan",
       },
       {
         src: "images/tb3.png",
         alt: "Page Our Team",
-        description: "Page de la résentation de l'équipe",
+        description: "Présentation de l'équipe devant la fresque murale",
       },
       {
         src: "images/tb4.png",
@@ -83,7 +83,7 @@ const projectsData = {
   project2: {
     title: "Implémentation d'algorithmes Python",
     description:
-      "Réalisation d'un projets universitaire en python, incluant le développement d'algorithmes pour l'analyse de réseaux sociaux et l'implémentation de fonctions de traitement de données complexes.",
+      "Réalisation de projets variés en Python, incluant le développement d'algorithmes pour l'analyse de réseaux sociaux et l'implémentation de fonctions de traitement de données complexes.",
     technologies: ["Python", "Algorithmes", "Tests unitaires"],
     details: [
       "Développement d'algorithmes d'analyse de réseaux sociaux",
