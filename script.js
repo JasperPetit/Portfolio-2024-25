@@ -44,14 +44,15 @@ const projectsData = {
   project1: {
     title: "Site Trésor de Banlieue - Travail en équipe",
     description:
-      "Développement collaboratif d'un site web pour promouvoir et mettre en valeur l'évennement. Ce projet a été réalisé en équipe avec une approche agile et une répartition claire des tâches.",
+      "Développement collaboratif d'un site web pour promouvoir et mettre en valeur l’événement. Ce projet a été réalisé en équipe avec une approche agile et une répartition claire des tâches.",
     technologies: ["HTML5", "CSS3", "JavaScript", "Git", "Travail collaboratif"],
-    details: [
-      "Lors de ce projet, moi et 5 de mes camarades avont été chargé de réaliser un site web fictif pour un évennement culturel de notre choix. Nous devions, pour cela ,créer une feuille de route, tenir un journal de bord et organiser les taches de chacun.",
-      "Mes mission principales ont été : la prise de contact avec les organisateur/ la création, en colaboration avec les autres memebres, du journal de bord et la feuille de route / la realisation de l'interview du directeur de l'exposition / La rédaction des textes du site / L'envoi, en tant que chef d'équipe, des rendu au chargé de projet",
-      "Notre choix s'est porté sur Trésor de Banlieue, une exposition organisé par L'association des Banlieue a Gennevilliers. Cette dernniere exposait pendant 4 mois des oeuvres venant de toute les banlieue de France, mettant ainsi en valeur ses differents aspects et faisant decouvrir une autre face de la France.",
-      "La principale difficulté que nous avons rencontré a été la réalisation du site, qui nous a demandés beaucoup de temps et d'invesstissement mais nous a permis d'en apprendre beaucoup sur le sujet et amelioerer nos competences. Ce projet a donc été tres enrichissant et m'a permis de développer a la fois mes competences technique mais également organisationnel.",
-    ],
+    details: [      
+      "Lors de ce projet, 5 de mes camarades et moi avons été chargés de réaliser un site web fictif pour un événement culturel de notre choix. Nous devions, pour cela, créer une feuille de route, tenir un journal de bord et organiser les tâches de chacun.",
+      "Mes missions principales ont été : la prise de contact avec les organisateurs / la création, en collaboration avec les autres membres, du journal de bord et de la feuille de route / la réalisation de l'interview du directeur de l'exposition / la rédaction des textes du site / l'envoi, en tant que chef d'équipe, des rendus au chargé de projet.",
+      "Notre choix s'est porté sur Trésor de Banlieue, une exposition organisée par l'association des Banlieues à Gennevilliers. Cette dernière exposait pendant 4 mois des œuvres venant de toutes les banlieues de France, mettant ainsi en valeur leurs différents aspects et faisant découvrir une autre face de la France.",
+      "La principale difficulté que nous avons rencontrée a été la réalisation du site, qui nous a demandé beaucoup de temps et d’investissement mais nous a permis d’en apprendre beaucoup sur le sujet et d’améliorer nos compétences. Ce projet a donc été très enrichissant et m'a permis de développer à la fois mes compétences techniques mais également organisationnelles.",
+    
+      ],
     images: [
       {
         src: "images/tb1.png",
@@ -134,7 +135,7 @@ const projectsData = {
     ],
   },
   project4: {
-    title: "Jeu d'échec - Développement d'une application",
+    title: "Jeu d’échecs - Développement d'une application",
     description:
       "Développement d'une application complète de jeu d'échecs en Java avec interface en ligne de commande, implémentation complète des règles du jeu et architecture orientée objet.",
     technologies: ["Java", "Programmation orientée objet", "Algorithmes", "UML"],
