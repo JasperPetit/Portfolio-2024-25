@@ -47,7 +47,7 @@ const projectsData = {
       "Développement collaboratif d'un site web pour promouvoir et mettre en valeur l’événement. Ce projet a été réalisé en équipe avec une approche agile et une répartition claire des tâches.",
     technologies: ["HTML5", "CSS3", "JavaScript", "Git", "Travail collaboratif"],
     details: [      
-      "Lors de ce projet, 5 de mes camarades et moi avons été chargés de réaliser un site web fictif pour un événement culturel de notre choix. Nous devions, pour cela, créer une feuille de route, tenir un journal de bord et organiser les tâches de chacun.",
+      "Lors de ce projet, 5 de mes camarades et moi avons été chargés de réaliser un site web fictif pour l'événement culturel de notre choix. Nous devions, pour cela, créer une feuille de route, tenir un journal de bord et organiser les tâches de chacun.",
       "Mes missions principales ont été : la prise de contact avec les organisateurs / la création, en collaboration avec les autres membres, du journal de bord et de la feuille de route / la réalisation de l'interview du directeur de l'exposition / la rédaction des textes du site / l'envoi, en tant que chef d'équipe, des rendus au chargé de projet.",
       "Notre choix s'est porté sur Trésor de Banlieue, une exposition organisée par l'association des Banlieues à Gennevilliers. Cette dernière exposait pendant 4 mois des œuvres venant de toutes les banlieues de France, mettant ainsi en valeur leurs différents aspects et faisant découvrir une autre face de la France.",
       "La principale difficulté que nous avons rencontrée a été la réalisation du site, qui nous a demandé beaucoup de temps et d’investissement mais nous a permis d’en apprendre beaucoup sur le sujet et d’améliorer nos compétences. Ce projet a donc été très enrichissant et m'a permis de développer à la fois mes compétences techniques mais également organisationnelles.",
@@ -87,7 +87,7 @@ const projectsData = {
       "Réalisation de projets variés en Python, incluant le développement d'algorithmes pour l'analyse de réseaux sociaux et l'implémentation de fonctions de traitement de données complexes.",
     technologies: ["Python", "Algorithmes", "Tests unitaires"],
     details: [
-      "Développement d'algorithmes d'analyse de réseaux sociaux",
+      "Développement d'algorithmes d'analyses de réseaux sociaux",
       "Implémentation de fonctions de comptage et d'analyse",
       "Gestion des structures de données complexes",
       "Création de tests unitaires pour valider les fonctions",
@@ -97,7 +97,7 @@ const projectsData = {
     images: [
       {
         src: "images/py1.png",
-        alt: "SAE Étude de communautés dans un réseau social",
+        alt: "SAE Étude de communautés dans un réseaux social",
         description: "Document de présentation du projet avec calendrier et évaluation",
       },
       {
@@ -117,7 +117,7 @@ const projectsData = {
       "Création du modèle logique et physique",
       "Implémentation sur PostgreSQL",
       "Optimisation des requêtes complexes",
-      "Gestion des contraintes et des index",
+      "Gestion des contraintes et des indexes",
       "Analyse et traitement de grandes quantités de données",
       "Documentation technique complète",
     ],
@@ -144,7 +144,7 @@ const projectsData = {
       "Implémentation des règles complètes du jeu d'échecs",
       "Interface en ligne de commande avec plateau textuel",
       "Gestion des différents types de pièces (Roi, Dame, Tour, etc.)",
-      "Système de validation des coups et détection d'échec",
+      "Système de validation des coups et détection d'échecs",
       "Architecture orientée objet avec classes Joueur, Partie, Echiquier",
       "Tests et débogage de la logique de jeu",
     ],
@@ -167,10 +167,10 @@ const projectsData = {
     ],
   },
   project5: {
-    title: "Installation de services réseau",
+    title: "Installation de services réseaux",
     description:
-      "Configuration et déploiement de services réseau essentiels dans un environnement Linux, incluant serveur web, DNS, DHCP et mise en place de politiques de sécurité.",
-    technologies: ["Linux", "Réseau", "Administration système", "Sécurité"],
+      "Configuration et déploiement de services réseaux essentiels dans un environnement Linux, incluant serveur web, DNS, DHCP et mise en place de politiques de sécurité.",
+    technologies: ["Linux", "réseaux", "Administration système", "Sécurité"],
     details: [
       "Installation et configuration d'un serveur web Apache",
       "Mise en place d'un serveur DNS avec BIND",
